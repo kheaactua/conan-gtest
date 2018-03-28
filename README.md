@@ -1,3 +1,5 @@
+Likely useless once https://github.com/bincrafters/conan-gtest/pull/10 is accepted.  (I'll delete the repo then)
+
 ## Package Status
 
 | Bintray | Windows | Linux & Mac | 
